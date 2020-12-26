@@ -1,6 +1,6 @@
 # PHP FPM MySQL
 
-Docker template for building PHP images with MySQL extesnion enabled. It has all necessary extensions for WordPress.
+Docker template for building PHP images with MySQL and GD extension enabled. It has all necessary extensions for WordPress and Joomla.
 
 ## Default build
 
